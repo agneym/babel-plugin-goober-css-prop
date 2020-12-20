@@ -1,8 +1,9 @@
 {
-  "name": "@agney/babel-plugin-goober-css",
+  "name": "@agney/babel-plugin-goober-css-prop",
   "version": "0.0.0",
   "description": "Babel plugin that enables CSS prop for Goober",
   "main": "index.js",
+  "private": false,
   "scripts": {
     "release": "np",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,5 +25,9 @@
   "devDependencies": {
     "goober": "^2.0.19-next.1",
     "np": "^7.0.0"
+  },
+  "repository": "git@github.com:agneym/babel-plugin-goober-css-prop.git",
+  "bugs": {
+    "url": "https://github.com/agneym/babel-plugin-goober-css-prop.git/issues"
   }
 }
