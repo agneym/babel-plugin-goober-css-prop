@@ -1,6 +1,6 @@
 {
   "name": "@agney/babel-plugin-goober-css-prop",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Babel plugin that enables CSS prop for Goober",
   "main": "index.js",
   "private": false,
